@@ -45,10 +45,10 @@ make doc
 Will result in build documentation.
 
 ### Stages of the project
-<img src="./img/breadboard.png" height="600px" />
+<img src="./img/breadboard.jpg" height="600px" />
 <img src="./img/schematic.png" height="600px" />
 <img src="./img/wiring.png" height="600px" />
-<img src="./img/holes1.png" height="600px" />
-<img src="./img/holes2.png" height="600px" />
-<img src="./img/soldered.png" height="600px" />
-<img src="./img/final.png" height="600px" />
+<img src="./img/holes1.jpg" height="600px" />
+<img src="./img/holes2.jpg" height="600px" />
+<img src="./img/soldered.jpg" height="600px" />
+<img src="./img/final.jpg" height="600px" />
